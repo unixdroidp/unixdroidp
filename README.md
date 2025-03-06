@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pushpendra vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendra vishwakarma" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/pushpendra vishwakarma](https://www.linkedin.com/in/pushpendra-vishwakarma-0a33a6221/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendra vishwakarma" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_crazy_hacker_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_crazy_hacker_pk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/unixdroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unixdroid" height="30" width="40" /></a>
 </p>
