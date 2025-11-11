@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pushpendra Nandlal Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm Pushpendra N Vishwakarma</h1>
 <h3 align="center">"Ethical Hacker | Digital Marketing | Automating the Web"</h3>
 <img align="right" alt="Cofing" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif">
 
