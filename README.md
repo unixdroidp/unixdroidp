@@ -2,7 +2,7 @@
 <h3 align="center">"Ethical Hacker | Digital Marketing | Automating the Web"</h3>
 <img align="right" alt="Cofing" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif">
 
-- 🔭 I’m currently working on **Unixdroid | Raj computers academy**
+- 🔭 I’m currently working on **Unixdroid | Alpha Computer Institute | Raj computers academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/unixdroidp/red-team](https://github.com/unixdroidp/red-team)
 
