@@ -65,10 +65,10 @@ and security awareness material for students and professionals.
   <a href="https://www.linkedin.com/in/pushpendra-vishwakarma-0a33a6221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/c/unixdroid" target="_blank">
+  <a href="https://www.youtube.com/@Unixdroid" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/mr_crazy_hacker_pk" target="_blank">
+  <a href="https://instagram.com/unixdroid.in" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/pushpendra.vishwakarma.82" target="_blank">
