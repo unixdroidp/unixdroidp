@@ -44,7 +44,7 @@ and security awareness material for students and professionals.
 | 🛡️ **Frameworks** | OWASP Top 10, MITRE ATT&CK, NIST, PTES |
 | 🗣️ **Languages** | English · Hindi |
 | 🌍 **Work Style** | Remote · Hybrid · On-site (India) |
-| 📩 **Contact** | LinkedIn / Email (see below) |
+| 📩 **Contact** | LinkedIn / WhatsApp (see below) |
 | 💡 **Soft Skills** | Communication, Mentoring, Documentation, Problem Solving |
 
 ---
@@ -61,24 +61,33 @@ and security awareness material for students and professionals.
 
 ## 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pushpendra-vishwakarma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pushpendra-vishwakarma-0a33a6221/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="44" height="44" style="margin:0 10px;" />
   </a>
-  <a href="https://www.youtube.com/@Unixdroid" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/unixdroid" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="44" height="44" style="margin:0 10px;" />
   </a>
-  <a href="https://instagram.com/unixdroid.in" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/mr_crazy_hacker_pk" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="44" height="44" style="margin:0 10px;" />
   </a>
-  <a href="https://www.facebook.com/pushpendra.vishwakarma.82" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/pushpendra.vishwakarma.82" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="44" height="44" style="margin:0 10px;" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=919559837166" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  &nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=919559837166" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="44" height="44" style="margin:0 10px;" />
   </a>
-  <a href="https://www.threads.net/@mr_crazy_hacker_pk" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  &nbsp;&nbsp;
+  <a href="https://www.threads.net/@mr_crazy_hacker_pk" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/threads/ffffff" alt="Threads" width="44" height="44" style="margin:0 10px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/unixdroidp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="44" height="44" style="margin:0 10px;" />
   </a>
 </p>
 
@@ -88,22 +97,12 @@ and security awareness material for students and professionals.
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,js,html,css,mysql" alt="languages" /></a>
 </p>
 
 **Frameworks & Platforms**
 <p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask,linux,kali,aws,git,github" alt="frameworks" /></a>
 </p>
 
 **Security Tools**
@@ -155,6 +154,10 @@ and security awareness material for students and professionals.
 <p align="center">
   <a href="https://www.linkedin.com/in/pushpendra-vishwakarma-0a33a6221/">
     <img src="https://img.shields.io/badge/📩%20Reach%20Out%20on%20LinkedIn-0077B5?style=for-the-badge" alt="Reach out on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=919559837166">
+    <img src="https://img.shields.io/badge/💬%20Message%20on%20WhatsApp-25D366?style=for-the-badge" alt="WhatsApp Message" />
   </a>
 </p>
 
