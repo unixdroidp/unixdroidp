@@ -62,7 +62,7 @@ and security awareness material for students and professionals.
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pushpendra-vishwakarma-0a33a6221/" target="_blank">
+  <a href="https://www.linkedin.com/in/pushpendra-vishwakarma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@Unixdroid" target="_blank">
